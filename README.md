@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-# guide-to-laravel-passport
+# laravel-passport-OAuth2
 
 This is a reference project for [An In-Depth Guide to API Authentication With Laravel Passport](https://adevait.com/laravel/api-authentication-with-laravel-passport) article published on [Adeva Blog](https://adevait.com/blog).
 
